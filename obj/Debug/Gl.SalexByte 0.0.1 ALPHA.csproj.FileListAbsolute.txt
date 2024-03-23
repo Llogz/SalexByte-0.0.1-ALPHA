@@ -1,0 +1,13 @@
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\obj\Debug\Gl.SalexByte 0.0.1 ALPHA.csproj.AssemblyReference.cache
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\obj\Debug\Forms.Register.resources
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\obj\Debug\Gl.SalexByte_0._0._1_ALPHA.Properties.Resources.resources
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\obj\Debug\Gl.SalexByte 0.0.1 ALPHA.csproj.GenerateResource.cache
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\obj\Debug\Gl.SalexByte 0.0.1 ALPHA.csproj.CoreCompileInputs.cache
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\bin\Debug\Gl.SalexByte 0.0.1 ALPHA.exe.config
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\bin\Debug\Gl.SalexByte 0.0.1 ALPHA.exe
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\bin\Debug\Gl.SalexByte 0.0.1 ALPHA.pdb
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\obj\Debug\Gl.SalexByte 0.0.1 ALPHA.exe
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\obj\Debug\Gl.SalexByte 0.0.1 ALPHA.pdb
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Llogz\OneDrive\Desktop\SalexByte\Gl.SalexByte 0.0.1 ALPHA\obj\Debug\Gl.Salex.263A48EF.Up2Date
